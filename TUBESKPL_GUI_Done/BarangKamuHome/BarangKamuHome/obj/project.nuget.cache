@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ACjXMM7lv8FCYjuShb9wiGYZlPshyQL7BpmG6lSNZe9VEWwMGgN2tMqURfW2b2SrXa9r0BvkBLZWwK/0Qm6Ytg==",
+  "success": true,
+  "projectFilePath": "F:\\KPL\\TUBESKPL_GUI\\TUBESKPL_GUI\\BarangKamuHome\\BarangKamuHome\\BarangKamuHome.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
