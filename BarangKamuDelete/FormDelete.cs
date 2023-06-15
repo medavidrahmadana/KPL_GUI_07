@@ -27,10 +27,16 @@ namespace BarangKamuDelete
 
         private void LoadData()
         {
-            if (File.Exists(jsonFilePath))
+            if (File.Exists(filePath))
             {
-                string jsonData = File.ReadAllText(jsonFilePath);
-                dataGridView1.DataSource = JsonConvert.DeserializeObject(jsonData, typeof(DataGridViewRow[]));
+                string jsonData = File.ReadAllText(filePath);
+                dataBarangManager.DataBarang = JsonConvert.DeserializeObject<DataTable>(jsonData);
+                dataGridView1.DataSource = dataBarangManager.DataBarang;
+            }
+            else
+            {
+                // Handle jika file tidak ditemukan
+                MessageBox.Show("File data tidak ditemukan!");
             }
         }
 
