@@ -1,0 +1,84 @@
+C:\Users\HP\Documents\Pelajaran\Semester 4\KPL\TP\TUBESKPL_GUI\TUBESKPL_GUI\bin\Debug\net6.0-windows\TUBESKPL_GUI.exe
+C:\Users\HP\Documents\Pelajaran\Semester 4\KPL\TP\TUBESKPL_GUI\TUBESKPL_GUI\bin\Debug\net6.0-windows\TUBESKPL_GUI.deps.json
+C:\Users\HP\Documents\Pelajaran\Semester 4\KPL\TP\TUBESKPL_GUI\TUBESKPL_GUI\bin\Debug\net6.0-windows\TUBESKPL_GUI.runtimeconfig.json
+C:\Users\HP\Documents\Pelajaran\Semester 4\KPL\TP\TUBESKPL_GUI\TUBESKPL_GUI\bin\Debug\net6.0-windows\TUBESKPL_GUI.dll
+C:\Users\HP\Documents\Pelajaran\Semester 4\KPL\TP\TUBESKPL_GUI\TUBESKPL_GUI\bin\Debug\net6.0-windows\TUBESKPL_GUI.pdb
+C:\Users\HP\Documents\Pelajaran\Semester 4\KPL\TP\TUBESKPL_GUI\TUBESKPL_GUI\obj\Debug\net6.0-windows\TUBESKPL_GUI.csproj.AssemblyReference.cache
+C:\Users\HP\Documents\Pelajaran\Semester 4\KPL\TP\TUBESKPL_GUI\TUBESKPL_GUI\obj\Debug\net6.0-windows\TUBESKPL_GUI.Form1.resources
+C:\Users\HP\Documents\Pelajaran\Semester 4\KPL\TP\TUBESKPL_GUI\TUBESKPL_GUI\obj\Debug\net6.0-windows\TUBESKPL_GUI.Properties.Resources.resources
+C:\Users\HP\Documents\Pelajaran\Semester 4\KPL\TP\TUBESKPL_GUI\TUBESKPL_GUI\obj\Debug\net6.0-windows\TUBESKPL_GUI.csproj.GenerateResource.cache
+C:\Users\HP\Documents\Pelajaran\Semester 4\KPL\TP\TUBESKPL_GUI\TUBESKPL_GUI\obj\Debug\net6.0-windows\TUBESKPL_GUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\Pelajaran\Semester 4\KPL\TP\TUBESKPL_GUI\TUBESKPL_GUI\obj\Debug\net6.0-windows\TUBESKPL_GUI.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\Pelajaran\Semester 4\KPL\TP\TUBESKPL_GUI\TUBESKPL_GUI\obj\Debug\net6.0-windows\TUBESKPL_GUI.AssemblyInfo.cs
+C:\Users\HP\Documents\Pelajaran\Semester 4\KPL\TP\TUBESKPL_GUI\TUBESKPL_GUI\obj\Debug\net6.0-windows\TUBESKPL_GUI.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\Pelajaran\Semester 4\KPL\TP\TUBESKPL_GUI\TUBESKPL_GUI\obj\Debug\net6.0-windows\TUBESKPL_GUI.dll
+C:\Users\HP\Documents\Pelajaran\Semester 4\KPL\TP\TUBESKPL_GUI\TUBESKPL_GUI\obj\Debug\net6.0-windows\refint\TUBESKPL_GUI.dll
+C:\Users\HP\Documents\Pelajaran\Semester 4\KPL\TP\TUBESKPL_GUI\TUBESKPL_GUI\obj\Debug\net6.0-windows\TUBESKPL_GUI.pdb
+C:\Users\HP\Documents\Pelajaran\Semester 4\KPL\TP\TUBESKPL_GUI\TUBESKPL_GUI\obj\Debug\net6.0-windows\TUBESKPL_GUI.genruntimeconfig.cache
+C:\Users\HP\Documents\Pelajaran\Semester 4\KPL\TP\TUBESKPL_GUI\TUBESKPL_GUI\obj\Debug\net6.0-windows\ref\TUBESKPL_GUI.dll
+F:\KPL\TUBESKPL_GUI\TUBESKPL_GUI\TUBESKPL_GUI\bin\Debug\net6.0-windows\TUBESKPL_GUI.exe
+F:\KPL\TUBESKPL_GUI\TUBESKPL_GUI\TUBESKPL_GUI\bin\Debug\net6.0-windows\TUBESKPL_GUI.deps.json
+F:\KPL\TUBESKPL_GUI\TUBESKPL_GUI\TUBESKPL_GUI\bin\Debug\net6.0-windows\TUBESKPL_GUI.runtimeconfig.json
+F:\KPL\TUBESKPL_GUI\TUBESKPL_GUI\TUBESKPL_GUI\bin\Debug\net6.0-windows\TUBESKPL_GUI.dll
+F:\KPL\TUBESKPL_GUI\TUBESKPL_GUI\TUBESKPL_GUI\bin\Debug\net6.0-windows\TUBESKPL_GUI.pdb
+F:\KPL\TUBESKPL_GUI\TUBESKPL_GUI\TUBESKPL_GUI\obj\Debug\net6.0-windows\TUBESKPL_GUI.csproj.AssemblyReference.cache
+F:\KPL\TUBESKPL_GUI\TUBESKPL_GUI\TUBESKPL_GUI\obj\Debug\net6.0-windows\BarangKamuAdd.FormAdd.resources
+F:\KPL\TUBESKPL_GUI\TUBESKPL_GUI\TUBESKPL_GUI\obj\Debug\net6.0-windows\TUBESKPL_GUI.FormLogin.resources
+F:\KPL\TUBESKPL_GUI\TUBESKPL_GUI\TUBESKPL_GUI\obj\Debug\net6.0-windows\TUBESKPL_GUI.Properties.Resources.resources
+F:\KPL\TUBESKPL_GUI\TUBESKPL_GUI\TUBESKPL_GUI\obj\Debug\net6.0-windows\TUBESKPL_GUI.csproj.GenerateResource.cache
+F:\KPL\TUBESKPL_GUI\TUBESKPL_GUI\TUBESKPL_GUI\obj\Debug\net6.0-windows\TUBESKPL_GUI.GeneratedMSBuildEditorConfig.editorconfig
+F:\KPL\TUBESKPL_GUI\TUBESKPL_GUI\TUBESKPL_GUI\obj\Debug\net6.0-windows\TUBESKPL_GUI.AssemblyInfoInputs.cache
+F:\KPL\TUBESKPL_GUI\TUBESKPL_GUI\TUBESKPL_GUI\obj\Debug\net6.0-windows\TUBESKPL_GUI.AssemblyInfo.cs
+F:\KPL\TUBESKPL_GUI\TUBESKPL_GUI\TUBESKPL_GUI\obj\Debug\net6.0-windows\TUBESKPL_GUI.csproj.CoreCompileInputs.cache
+F:\KPL\TUBESKPL_GUI\TUBESKPL_GUI\TUBESKPL_GUI\obj\Debug\net6.0-windows\TUBESKPL_GUI.dll
+F:\KPL\TUBESKPL_GUI\TUBESKPL_GUI\TUBESKPL_GUI\obj\Debug\net6.0-windows\refint\TUBESKPL_GUI.dll
+F:\KPL\TUBESKPL_GUI\TUBESKPL_GUI\TUBESKPL_GUI\obj\Debug\net6.0-windows\TUBESKPL_GUI.pdb
+F:\KPL\TUBESKPL_GUI\TUBESKPL_GUI\TUBESKPL_GUI\obj\Debug\net6.0-windows\TUBESKPL_GUI.genruntimeconfig.cache
+F:\KPL\TUBESKPL_GUI\TUBESKPL_GUI\TUBESKPL_GUI\obj\Debug\net6.0-windows\ref\TUBESKPL_GUI.dll
+F:\KPL\TUBESKPL_GUI\TUBESKPL_GUI\TUBESKPL_GUI\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+F:\KPL\TUBESKPL_GUI\TUBESKPL_GUI\TUBESKPL_GUI\obj\Debug\net6.0-windows\TUBESKPL_GUI.csproj.CopyComplete
+F:\KPL\TUBESKPL_GUI\TUBESKPL_GUI\TUBESKPL_GUI\obj\Debug\net6.0-windows\BarangKamuGUI.FormHome.resources
+C:\Users\Yoga Elfaraby\Documents\TUBESKPL_GUI\TUBESKPL_GUI\TUBESKPL_GUI\bin\Debug\net6.0-windows\TUBESKPL_GUI.exe
+C:\Users\Yoga Elfaraby\Documents\TUBESKPL_GUI\TUBESKPL_GUI\TUBESKPL_GUI\bin\Debug\net6.0-windows\TUBESKPL_GUI.deps.json
+C:\Users\Yoga Elfaraby\Documents\TUBESKPL_GUI\TUBESKPL_GUI\TUBESKPL_GUI\bin\Debug\net6.0-windows\TUBESKPL_GUI.runtimeconfig.json
+C:\Users\Yoga Elfaraby\Documents\TUBESKPL_GUI\TUBESKPL_GUI\TUBESKPL_GUI\bin\Debug\net6.0-windows\TUBESKPL_GUI.dll
+C:\Users\Yoga Elfaraby\Documents\TUBESKPL_GUI\TUBESKPL_GUI\TUBESKPL_GUI\bin\Debug\net6.0-windows\TUBESKPL_GUI.pdb
+C:\Users\Yoga Elfaraby\Documents\TUBESKPL_GUI\TUBESKPL_GUI\TUBESKPL_GUI\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\Yoga Elfaraby\Documents\TUBESKPL_GUI\TUBESKPL_GUI\TUBESKPL_GUI\obj\Debug\net6.0-windows\TUBESKPL_GUI.csproj.AssemblyReference.cache
+C:\Users\Yoga Elfaraby\Documents\TUBESKPL_GUI\TUBESKPL_GUI\TUBESKPL_GUI\obj\Debug\net6.0-windows\BarangKamuAdd.FormAdd.resources
+C:\Users\Yoga Elfaraby\Documents\TUBESKPL_GUI\TUBESKPL_GUI\TUBESKPL_GUI\obj\Debug\net6.0-windows\BarangKamuGUI.FormHome.resources
+C:\Users\Yoga Elfaraby\Documents\TUBESKPL_GUI\TUBESKPL_GUI\TUBESKPL_GUI\obj\Debug\net6.0-windows\TUBESKPL_GUI.FormLogin.resources
+C:\Users\Yoga Elfaraby\Documents\TUBESKPL_GUI\TUBESKPL_GUI\TUBESKPL_GUI\obj\Debug\net6.0-windows\TUBESKPL_GUI.Properties.Resources.resources
+C:\Users\Yoga Elfaraby\Documents\TUBESKPL_GUI\TUBESKPL_GUI\TUBESKPL_GUI\obj\Debug\net6.0-windows\TUBESKPL_GUI.csproj.GenerateResource.cache
+C:\Users\Yoga Elfaraby\Documents\TUBESKPL_GUI\TUBESKPL_GUI\TUBESKPL_GUI\obj\Debug\net6.0-windows\TUBESKPL_GUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yoga Elfaraby\Documents\TUBESKPL_GUI\TUBESKPL_GUI\TUBESKPL_GUI\obj\Debug\net6.0-windows\TUBESKPL_GUI.AssemblyInfoInputs.cache
+C:\Users\Yoga Elfaraby\Documents\TUBESKPL_GUI\TUBESKPL_GUI\TUBESKPL_GUI\obj\Debug\net6.0-windows\TUBESKPL_GUI.AssemblyInfo.cs
+C:\Users\Yoga Elfaraby\Documents\TUBESKPL_GUI\TUBESKPL_GUI\TUBESKPL_GUI\obj\Debug\net6.0-windows\TUBESKPL_GUI.csproj.CoreCompileInputs.cache
+C:\Users\Yoga Elfaraby\Documents\TUBESKPL_GUI\TUBESKPL_GUI\TUBESKPL_GUI\obj\Debug\net6.0-windows\TUBESKPL_GUI.csproj.CopyComplete
+C:\Users\Yoga Elfaraby\Documents\TUBESKPL_GUI\TUBESKPL_GUI\TUBESKPL_GUI\obj\Debug\net6.0-windows\TUBESKPL_GUI.dll
+C:\Users\Yoga Elfaraby\Documents\TUBESKPL_GUI\TUBESKPL_GUI\TUBESKPL_GUI\obj\Debug\net6.0-windows\refint\TUBESKPL_GUI.dll
+C:\Users\Yoga Elfaraby\Documents\TUBESKPL_GUI\TUBESKPL_GUI\TUBESKPL_GUI\obj\Debug\net6.0-windows\TUBESKPL_GUI.pdb
+C:\Users\Yoga Elfaraby\Documents\TUBESKPL_GUI\TUBESKPL_GUI\TUBESKPL_GUI\obj\Debug\net6.0-windows\TUBESKPL_GUI.genruntimeconfig.cache
+C:\Users\Yoga Elfaraby\Documents\TUBESKPL_GUI\TUBESKPL_GUI\TUBESKPL_GUI\obj\Debug\net6.0-windows\ref\TUBESKPL_GUI.dll
+F:\KPL\TUBESKPL_GUI_LastAddFresh\TUBESKPL_GUI\TUBESKPL_GUI\TUBESKPL_GUI\bin\Debug\net6.0-windows\TUBESKPL_GUI.exe
+F:\KPL\TUBESKPL_GUI_LastAddFresh\TUBESKPL_GUI\TUBESKPL_GUI\TUBESKPL_GUI\bin\Debug\net6.0-windows\TUBESKPL_GUI.deps.json
+F:\KPL\TUBESKPL_GUI_LastAddFresh\TUBESKPL_GUI\TUBESKPL_GUI\TUBESKPL_GUI\bin\Debug\net6.0-windows\TUBESKPL_GUI.runtimeconfig.json
+F:\KPL\TUBESKPL_GUI_LastAddFresh\TUBESKPL_GUI\TUBESKPL_GUI\TUBESKPL_GUI\bin\Debug\net6.0-windows\TUBESKPL_GUI.dll
+F:\KPL\TUBESKPL_GUI_LastAddFresh\TUBESKPL_GUI\TUBESKPL_GUI\TUBESKPL_GUI\bin\Debug\net6.0-windows\TUBESKPL_GUI.pdb
+F:\KPL\TUBESKPL_GUI_LastAddFresh\TUBESKPL_GUI\TUBESKPL_GUI\TUBESKPL_GUI\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+F:\KPL\TUBESKPL_GUI_LastAddFresh\TUBESKPL_GUI\TUBESKPL_GUI\TUBESKPL_GUI\obj\Debug\net6.0-windows\TUBESKPL_GUI.csproj.AssemblyReference.cache
+F:\KPL\TUBESKPL_GUI_LastAddFresh\TUBESKPL_GUI\TUBESKPL_GUI\TUBESKPL_GUI\obj\Debug\net6.0-windows\BarangKamuAdd.FormAdd.resources
+F:\KPL\TUBESKPL_GUI_LastAddFresh\TUBESKPL_GUI\TUBESKPL_GUI\TUBESKPL_GUI\obj\Debug\net6.0-windows\BarangKamuGUI.FormHome.resources
+F:\KPL\TUBESKPL_GUI_LastAddFresh\TUBESKPL_GUI\TUBESKPL_GUI\TUBESKPL_GUI\obj\Debug\net6.0-windows\TUBESKPL_GUI.FormLogin.resources
+F:\KPL\TUBESKPL_GUI_LastAddFresh\TUBESKPL_GUI\TUBESKPL_GUI\TUBESKPL_GUI\obj\Debug\net6.0-windows\TUBESKPL_GUI.Properties.Resources.resources
+F:\KPL\TUBESKPL_GUI_LastAddFresh\TUBESKPL_GUI\TUBESKPL_GUI\TUBESKPL_GUI\obj\Debug\net6.0-windows\TUBESKPL_GUI.csproj.GenerateResource.cache
+F:\KPL\TUBESKPL_GUI_LastAddFresh\TUBESKPL_GUI\TUBESKPL_GUI\TUBESKPL_GUI\obj\Debug\net6.0-windows\TUBESKPL_GUI.GeneratedMSBuildEditorConfig.editorconfig
+F:\KPL\TUBESKPL_GUI_LastAddFresh\TUBESKPL_GUI\TUBESKPL_GUI\TUBESKPL_GUI\obj\Debug\net6.0-windows\TUBESKPL_GUI.AssemblyInfoInputs.cache
+F:\KPL\TUBESKPL_GUI_LastAddFresh\TUBESKPL_GUI\TUBESKPL_GUI\TUBESKPL_GUI\obj\Debug\net6.0-windows\TUBESKPL_GUI.AssemblyInfo.cs
+F:\KPL\TUBESKPL_GUI_LastAddFresh\TUBESKPL_GUI\TUBESKPL_GUI\TUBESKPL_GUI\obj\Debug\net6.0-windows\TUBESKPL_GUI.csproj.CoreCompileInputs.cache
+F:\KPL\TUBESKPL_GUI_LastAddFresh\TUBESKPL_GUI\TUBESKPL_GUI\TUBESKPL_GUI\obj\Debug\net6.0-windows\TUBESKPL_GUI.csproj.CopyComplete
+F:\KPL\TUBESKPL_GUI_LastAddFresh\TUBESKPL_GUI\TUBESKPL_GUI\TUBESKPL_GUI\obj\Debug\net6.0-windows\TUBESKPL_GUI.dll
+F:\KPL\TUBESKPL_GUI_LastAddFresh\TUBESKPL_GUI\TUBESKPL_GUI\TUBESKPL_GUI\obj\Debug\net6.0-windows\refint\TUBESKPL_GUI.dll
+F:\KPL\TUBESKPL_GUI_LastAddFresh\TUBESKPL_GUI\TUBESKPL_GUI\TUBESKPL_GUI\obj\Debug\net6.0-windows\TUBESKPL_GUI.pdb
+F:\KPL\TUBESKPL_GUI_LastAddFresh\TUBESKPL_GUI\TUBESKPL_GUI\TUBESKPL_GUI\obj\Debug\net6.0-windows\TUBESKPL_GUI.genruntimeconfig.cache
+F:\KPL\TUBESKPL_GUI_LastAddFresh\TUBESKPL_GUI\TUBESKPL_GUI\TUBESKPL_GUI\obj\Debug\net6.0-windows\ref\TUBESKPL_GUI.dll

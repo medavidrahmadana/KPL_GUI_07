@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "8mA4QTV1mMftc6b3RlIXNioArbN9zjEpZeFyV2Yi+HMHeOtxI9C0+r0FN4Qxw+sOOkEZktH0QJq/R6ksoXLY3A==",
+  "success": true,
+  "projectFilePath": "F:\\KPL\\TUBESKPL_GUI_LastAddFresh\\TUBESKPL_GUI\\TUBESKPL_GUI\\TUBESKPL_GUI\\TUBESKPL_GUI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

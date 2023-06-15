@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "TUBESKPL_GUI/1.0.0": {
+        "runtime": {
+          "TUBESKPL_GUI.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TUBESKPL_GUI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
